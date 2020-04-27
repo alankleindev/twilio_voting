@@ -1,5 +1,5 @@
 body {
-  font: 14px "Rubik", sans-serif;
+  font: 14px 'Rubik', sans-serif;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -176,7 +176,7 @@ form button {
 
 /* Create the indicator (the dot/circle - hidden when not checked) */
 .checkmark:after {
-  content: "";
+  content: '';
   position: absolute;
   display: none;
 }
